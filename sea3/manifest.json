@@ -1,0 +1,706 @@
+{
+  "schema_version": 1,
+  "sea": 3,
+  "experimental": true,
+  "available": true,
+  "profiles": {
+    "minimo": {
+      "files": [
+        {
+          "path": "minimo/mapa/tiles/nivel0_mini.png",
+          "bytes": 219435,
+          "sha256": "b60c236b703a5967faa6f2e429cdb3d03e2d687e418d9afc9d425aa712254107"
+        },
+        {
+          "path": "minimo/mapa/icones/jog_barra.png",
+          "bytes": 1280,
+          "sha256": "afbbc70c3e943a92bb93b1451c87a9905b23a8343a1d6b01db508d60bcf8a8b0"
+        },
+        {
+          "path": "minimo/mapa/icones/jog_barra_bg.png",
+          "bytes": 1254,
+          "sha256": "3b7bbe8644a2935ad006fee79e53a73f15eecb0a077c9347e6131c658d5dbaea"
+        },
+        {
+          "path": "minimo/mapa/icones/jog_fundo.png",
+          "bytes": 14486,
+          "sha256": "7cc3fe151a7def7c8407b2888cc981439773de3ce23d048ff5141f08c311206a"
+        },
+        {
+          "path": "minimo/mapa/icones/jog_glow.png",
+          "bytes": 4620,
+          "sha256": "1a437647b17565765f283bfbfb430b6d1d6a538e3afcaf907a6b32852d394e89"
+        },
+        {
+          "path": "minimo/mapa/icones/jog_pulso.png",
+          "bytes": 5222,
+          "sha256": "01ca435cab3ef90169dec64c4fbbeb715c212527b89c49109bf33a9b810265db"
+        },
+        {
+          "path": "minimo/mapa/icones/jog_seta.png",
+          "bytes": 1601,
+          "sha256": "7db58700a0e993c103621a11450c764bf2b6b6f39d9d909f7d72854e9c5b0630"
+        },
+        {
+          "path": "minimo/mapa/icones/jog_silhueta.png",
+          "bytes": 3420,
+          "sha256": "229d0a1ee17d19e4c3fa9529b9d3eec2a0a1ba1606dfa45354ce4efd67c33493"
+        }
+      ],
+      "file_count": 8,
+      "total_bytes": 251318
+    },
+    "leve": {
+      "files": [
+        {
+          "path": "leve/mapa/tiles/nivel1_geral/tile_00_00.png",
+          "bytes": 719327,
+          "sha256": "9bcd4fb87afb7fef3d9eec7a2e4bf0e9ab8c58384f1e46f8f259c3eaf113ad9e"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_00_00.png",
+          "bytes": 1492,
+          "sha256": "df7f8f56d19010a4eb65a95e5a13286467e6d97cda8814a2a5344275bbd0e659"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_00_01.png",
+          "bytes": 1492,
+          "sha256": "df7f8f56d19010a4eb65a95e5a13286467e6d97cda8814a2a5344275bbd0e659"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_00_02.png",
+          "bytes": 1492,
+          "sha256": "df7f8f56d19010a4eb65a95e5a13286467e6d97cda8814a2a5344275bbd0e659"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_00_03.png",
+          "bytes": 1492,
+          "sha256": "df7f8f56d19010a4eb65a95e5a13286467e6d97cda8814a2a5344275bbd0e659"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_00_04.png",
+          "bytes": 108800,
+          "sha256": "609f93ba2e7f49359349534213c9058cddf9af38979e71c32401d12e1fa31d15"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_00_05.png",
+          "bytes": 1492,
+          "sha256": "df7f8f56d19010a4eb65a95e5a13286467e6d97cda8814a2a5344275bbd0e659"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_00_06.png",
+          "bytes": 1262,
+          "sha256": "db82c6dfbcb22099984982b0b8f88e686f98782e9293c15be996fc98199fefbb"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_01_00.png",
+          "bytes": 1492,
+          "sha256": "df7f8f56d19010a4eb65a95e5a13286467e6d97cda8814a2a5344275bbd0e659"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_01_01.png",
+          "bytes": 79588,
+          "sha256": "aabff827c36d9aeb00e523abee579970b81deef27a68a57262d1ca45e69713ad"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_01_02.png",
+          "bytes": 230901,
+          "sha256": "6e5b6fa42fe844f8195757620ffd589bb810cb06106b7957beb668f9e7c90f4e"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_01_03.png",
+          "bytes": 30581,
+          "sha256": "16a9af1adb29075c8a6559cba74288d3218cc4891cc5405e121a7580db902c00"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_01_04.png",
+          "bytes": 15498,
+          "sha256": "14b262fd173aab6707e44dbd6396c89a94cb4d6ff283cd3da675c051ce3f41ae"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_01_05.png",
+          "bytes": 1492,
+          "sha256": "df7f8f56d19010a4eb65a95e5a13286467e6d97cda8814a2a5344275bbd0e659"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_01_06.png",
+          "bytes": 1262,
+          "sha256": "db82c6dfbcb22099984982b0b8f88e686f98782e9293c15be996fc98199fefbb"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_02_00.png",
+          "bytes": 1492,
+          "sha256": "df7f8f56d19010a4eb65a95e5a13286467e6d97cda8814a2a5344275bbd0e659"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_02_01.png",
+          "bytes": 66163,
+          "sha256": "55c437207da7b22a9788435db3da9fb6a1ae6cb40c38f4e990aae1038608a405"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_02_02.png",
+          "bytes": 172977,
+          "sha256": "3960f5893854ad4dbf14acbfa453b16e1ca267b3f951ebc5525fc5d10ddcea9f"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_02_03.png",
+          "bytes": 15213,
+          "sha256": "216a4e2437a1351aa386d2be00b1153232d0b908048dff06d27fb57871f05d29"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_02_04.png",
+          "bytes": 1492,
+          "sha256": "df7f8f56d19010a4eb65a95e5a13286467e6d97cda8814a2a5344275bbd0e659"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_02_05.png",
+          "bytes": 130532,
+          "sha256": "460e27e4f683582004d0ded547d5eae574c67250903c27282204beff94b4e336"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_02_06.png",
+          "bytes": 53027,
+          "sha256": "c085c57e8a523d2bb6f64512e0b5041adf1043979caf7a87f0817912a6b705e9"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_03_00.png",
+          "bytes": 1492,
+          "sha256": "df7f8f56d19010a4eb65a95e5a13286467e6d97cda8814a2a5344275bbd0e659"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_03_01.png",
+          "bytes": 1492,
+          "sha256": "df7f8f56d19010a4eb65a95e5a13286467e6d97cda8814a2a5344275bbd0e659"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_03_02.png",
+          "bytes": 1492,
+          "sha256": "df7f8f56d19010a4eb65a95e5a13286467e6d97cda8814a2a5344275bbd0e659"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_03_03.png",
+          "bytes": 91718,
+          "sha256": "bdb8f785ff1fd5bf40a1c7c1228dccf4e58daf7a30a1e56f084eb2f310d7fa82"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_03_04.png",
+          "bytes": 3456,
+          "sha256": "98c0529029a5a15e7e4aea996361e4a9bc672fd4c9cfe2d6695c60b4398469e3"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_03_05.png",
+          "bytes": 6732,
+          "sha256": "228bf95eec255e2524c44f33ebb9fba5fc470165173970b0199f8f5adde235a0"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_03_06.png",
+          "bytes": 1861,
+          "sha256": "1d8e41a4cfd237575fb47bebcf1ff67444c2128cc8f9721eb304a5a28d3d282c"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_04_00.png",
+          "bytes": 50242,
+          "sha256": "c903bdcd6a203fce627960e3972935e6b827af2eb391b040c216c15b5aa448d6"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_04_01.png",
+          "bytes": 205451,
+          "sha256": "7b2074ad011002b4b88ed0c3d46d432f10267c602ce2d8b5187bedca16902c5a"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_04_02.png",
+          "bytes": 1554,
+          "sha256": "9faa29ff35ef719a12a4c660ef6e01c9d68aac4c0005476e115ad9c800b8d6da"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_04_03.png",
+          "bytes": 1492,
+          "sha256": "df7f8f56d19010a4eb65a95e5a13286467e6d97cda8814a2a5344275bbd0e659"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_04_04.png",
+          "bytes": 1492,
+          "sha256": "df7f8f56d19010a4eb65a95e5a13286467e6d97cda8814a2a5344275bbd0e659"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_04_05.png",
+          "bytes": 76366,
+          "sha256": "90dffbf2a84f7e97bf6233d40dc4375d5f69546596661c12156fddf98d19ce0e"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_04_06.png",
+          "bytes": 65375,
+          "sha256": "000afb04630ef06220a8dc5e8100cdd1b767a9e718d7e2a0bfd7f997440359b2"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_05_00.png",
+          "bytes": 1492,
+          "sha256": "df7f8f56d19010a4eb65a95e5a13286467e6d97cda8814a2a5344275bbd0e659"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_05_01.png",
+          "bytes": 14113,
+          "sha256": "18fdf8a339e9eccd0dc17fbde38066551f05d799265040eede70e84c3c71b314"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_05_02.png",
+          "bytes": 116801,
+          "sha256": "7443e83490cb2203c750c16d3191b8a5931795796ae6b7bd713109183ba18a8a"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_05_03.png",
+          "bytes": 36164,
+          "sha256": "5488e3986d7f709c4ff2412f2090f4fcb34d38a227a8fcc7ac043ff75ee7c70c"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_05_04.png",
+          "bytes": 155868,
+          "sha256": "43c3a3d91ffa517d3f8599b63265f278aaa29fb20d11187113662655fd99518e"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_05_05.png",
+          "bytes": 34436,
+          "sha256": "6b912950f97a9acddc67ac0028634bb906ed7f60f5539cf77390abda033345de"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_05_06.png",
+          "bytes": 2908,
+          "sha256": "d1ea1683d721b4d550a432a05c863dbf98154bca219ca1c03bbcbd02a3036444"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_06_00.png",
+          "bytes": 1492,
+          "sha256": "df7f8f56d19010a4eb65a95e5a13286467e6d97cda8814a2a5344275bbd0e659"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_06_01.png",
+          "bytes": 1492,
+          "sha256": "df7f8f56d19010a4eb65a95e5a13286467e6d97cda8814a2a5344275bbd0e659"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_06_02.png",
+          "bytes": 1700,
+          "sha256": "b3acf864752916afc0669ba53876c1e7addfb8b70e0a8149372acb0fa67f3bac"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_06_03.png",
+          "bytes": 71601,
+          "sha256": "71760b0090bd3fa95f37f3c11af7b79403b15ae33fa4b5b591546c7f3bd8baae"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_06_04.png",
+          "bytes": 320739,
+          "sha256": "68bb3e573dd4aef1e8dbd856e4c8dba3e966c3e4314969537c1b456b1105dd32"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_06_05.png",
+          "bytes": 43922,
+          "sha256": "79805ea593da937628d3b338151f48dcf13dd20d24b9c7643a624d83b7f92296"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_06_06.png",
+          "bytes": 1262,
+          "sha256": "db82c6dfbcb22099984982b0b8f88e686f98782e9293c15be996fc98199fefbb"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_07_00.png",
+          "bytes": 1102,
+          "sha256": "50ccd27909a1bdf60630b7e689a40aa50d0ca0621d5fc5bd851b8a246a8b1521"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_07_01.png",
+          "bytes": 1102,
+          "sha256": "50ccd27909a1bdf60630b7e689a40aa50d0ca0621d5fc5bd851b8a246a8b1521"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_07_02.png",
+          "bytes": 1102,
+          "sha256": "50ccd27909a1bdf60630b7e689a40aa50d0ca0621d5fc5bd851b8a246a8b1521"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_07_03.png",
+          "bytes": 1102,
+          "sha256": "50ccd27909a1bdf60630b7e689a40aa50d0ca0621d5fc5bd851b8a246a8b1521"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_07_04.png",
+          "bytes": 1102,
+          "sha256": "50ccd27909a1bdf60630b7e689a40aa50d0ca0621d5fc5bd851b8a246a8b1521"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_07_05.png",
+          "bytes": 1102,
+          "sha256": "50ccd27909a1bdf60630b7e689a40aa50d0ca0621d5fc5bd851b8a246a8b1521"
+        },
+        {
+          "path": "leve/mapa/tiles_mobile/tile_07_06.png",
+          "bytes": 937,
+          "sha256": "15f278562117e78dc44f0b75a7c4f674471d74b90ecbfa3d05cc49f4100fa192"
+        },
+        {
+          "path": "leve/mapa/icones/jog_barra.png",
+          "bytes": 1280,
+          "sha256": "afbbc70c3e943a92bb93b1451c87a9905b23a8343a1d6b01db508d60bcf8a8b0"
+        },
+        {
+          "path": "leve/mapa/icones/jog_barra_bg.png",
+          "bytes": 1254,
+          "sha256": "3b7bbe8644a2935ad006fee79e53a73f15eecb0a077c9347e6131c658d5dbaea"
+        },
+        {
+          "path": "leve/mapa/icones/jog_fundo.png",
+          "bytes": 14486,
+          "sha256": "7cc3fe151a7def7c8407b2888cc981439773de3ce23d048ff5141f08c311206a"
+        },
+        {
+          "path": "leve/mapa/icones/jog_glow.png",
+          "bytes": 4620,
+          "sha256": "1a437647b17565765f283bfbfb430b6d1d6a538e3afcaf907a6b32852d394e89"
+        },
+        {
+          "path": "leve/mapa/icones/jog_pulso.png",
+          "bytes": 5222,
+          "sha256": "01ca435cab3ef90169dec64c4fbbeb715c212527b89c49109bf33a9b810265db"
+        },
+        {
+          "path": "leve/mapa/icones/jog_seta.png",
+          "bytes": 1601,
+          "sha256": "7db58700a0e993c103621a11450c764bf2b6b6f39d9d909f7d72854e9c5b0630"
+        },
+        {
+          "path": "leve/mapa/icones/jog_silhueta.png",
+          "bytes": 3420,
+          "sha256": "229d0a1ee17d19e4c3fa9529b9d3eec2a0a1ba1606dfa45354ce4efd67c33493"
+        }
+      ],
+      "file_count": 64,
+      "total_bytes": 2992196
+    },
+    "normal": {
+      "files": [
+        {
+          "path": "normal/mapa/tiles/nivel1_geral/tile_00_00.png",
+          "bytes": 719327,
+          "sha256": "9bcd4fb87afb7fef3d9eec7a2e4bf0e9ab8c58384f1e46f8f259c3eaf113ad9e"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_00_00.png",
+          "bytes": 4548,
+          "sha256": "9b220c3ff4ddac73bc9600ad342820bc15c4568579590b88f07b94c8cfbf63a9"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_00_01.png",
+          "bytes": 4548,
+          "sha256": "9b220c3ff4ddac73bc9600ad342820bc15c4568579590b88f07b94c8cfbf63a9"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_00_02.png",
+          "bytes": 4548,
+          "sha256": "9b220c3ff4ddac73bc9600ad342820bc15c4568579590b88f07b94c8cfbf63a9"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_00_03.png",
+          "bytes": 4548,
+          "sha256": "9b220c3ff4ddac73bc9600ad342820bc15c4568579590b88f07b94c8cfbf63a9"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_00_04.png",
+          "bytes": 314067,
+          "sha256": "b7f85b6643da341d62af833a7f9e81bb027e40d35b439847579d8afc0de5b6a6"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_00_05.png",
+          "bytes": 4548,
+          "sha256": "9b220c3ff4ddac73bc9600ad342820bc15c4568579590b88f07b94c8cfbf63a9"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_00_06.png",
+          "bytes": 3817,
+          "sha256": "a036ef973047099d111fe36f73951ecf3e3f0cc161857731ed9e42fe993bf750"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_01_00.png",
+          "bytes": 4548,
+          "sha256": "9b220c3ff4ddac73bc9600ad342820bc15c4568579590b88f07b94c8cfbf63a9"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_01_01.png",
+          "bytes": 195994,
+          "sha256": "cb69c7cafbd3e8abaf1cbc7170fbc295be0059d08ccbd88167647ea2fb2e5f2d"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_01_02.png",
+          "bytes": 612987,
+          "sha256": "868598287666401191a83734069e4072d2a0338b23f6852d054cadbaf629d843"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_01_03.png",
+          "bytes": 71317,
+          "sha256": "b60c1a1b660cd1aacb4d2bcc5631f74deab3eed917efc80bde0fcf6a14fdb299"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_01_04.png",
+          "bytes": 45939,
+          "sha256": "9d3fbd26993a2f3a37d210fefc0fa64d51d4edc0659602378ca1d427e6c7b080"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_01_05.png",
+          "bytes": 4548,
+          "sha256": "9b220c3ff4ddac73bc9600ad342820bc15c4568579590b88f07b94c8cfbf63a9"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_01_06.png",
+          "bytes": 3817,
+          "sha256": "a036ef973047099d111fe36f73951ecf3e3f0cc161857731ed9e42fe993bf750"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_02_00.png",
+          "bytes": 4548,
+          "sha256": "9b220c3ff4ddac73bc9600ad342820bc15c4568579590b88f07b94c8cfbf63a9"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_02_01.png",
+          "bytes": 175435,
+          "sha256": "a85c42331f9b9edf8337a40c77cd45a2d70d01ac94af2db51ca78c592328eba3"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_02_02.png",
+          "bytes": 461985,
+          "sha256": "4311b4f33f3031ac74b13d859cd13b44e3963097962d6e44125e4b1087a5ba9d"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_02_03.png",
+          "bytes": 36572,
+          "sha256": "c87562b60145a0a5dd415b1f22f9cf236b2d418d3a11b489284b0617905b9c1c"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_02_04.png",
+          "bytes": 4548,
+          "sha256": "9b220c3ff4ddac73bc9600ad342820bc15c4568579590b88f07b94c8cfbf63a9"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_02_05.png",
+          "bytes": 346854,
+          "sha256": "7b773e0fe6ccda593fafd7f157fe80637005f3cd0a96fc6a12fc0dd05375ef5b"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_02_06.png",
+          "bytes": 133949,
+          "sha256": "210449c3ff41607795a2776f5012418c58c5c16b6a86eba1c9a3bcc03204128f"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_03_00.png",
+          "bytes": 4548,
+          "sha256": "9b220c3ff4ddac73bc9600ad342820bc15c4568579590b88f07b94c8cfbf63a9"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_03_01.png",
+          "bytes": 4548,
+          "sha256": "9b220c3ff4ddac73bc9600ad342820bc15c4568579590b88f07b94c8cfbf63a9"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_03_02.png",
+          "bytes": 4548,
+          "sha256": "9b220c3ff4ddac73bc9600ad342820bc15c4568579590b88f07b94c8cfbf63a9"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_03_03.png",
+          "bytes": 280293,
+          "sha256": "5a785eb47c74675ff9a61187a3ca4535213965054ef8179f4884b7e7a20f0d88"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_03_04.png",
+          "bytes": 9360,
+          "sha256": "2dd982077ed25b6b7d151d7fb45b832add33fdccb57df901a510b8c65c789f85"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_03_05.png",
+          "bytes": 16504,
+          "sha256": "3d72e3967778fa7a35f0fa478a98051e21af005db3d799c9a7002811b6226bf7"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_03_06.png",
+          "bytes": 5167,
+          "sha256": "d4abfeedb6983e22fa93457a5cb7ed9066ddf3d750701eed01026c775015d11d"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_04_00.png",
+          "bytes": 151854,
+          "sha256": "a459c3b3bd99510c2a8f8d0318eae6b9fe772d59f4799351d55ba2e35225c060"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_04_01.png",
+          "bytes": 593903,
+          "sha256": "a46526d48ff9d018664d0c7c5ed510d34e4624d2ee7af9876634cdd2849cbf08"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_04_02.png",
+          "bytes": 4572,
+          "sha256": "8a7a2e2d282a4e44f56e57e7f0dce19c750755f81ce3ada5d1c0fb7d374d1a73"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_04_03.png",
+          "bytes": 4548,
+          "sha256": "9b220c3ff4ddac73bc9600ad342820bc15c4568579590b88f07b94c8cfbf63a9"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_04_04.png",
+          "bytes": 4548,
+          "sha256": "9b220c3ff4ddac73bc9600ad342820bc15c4568579590b88f07b94c8cfbf63a9"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_04_05.png",
+          "bytes": 236107,
+          "sha256": "ef772a504846a79c8b918328cc2f331b0aaecc0be437f2134cd219f0afb87992"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_04_06.png",
+          "bytes": 184227,
+          "sha256": "460809e3b54a816b22ba26075ef5ba3245398c0b13c1a88c649c59d020bbe741"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_05_00.png",
+          "bytes": 4548,
+          "sha256": "9b220c3ff4ddac73bc9600ad342820bc15c4568579590b88f07b94c8cfbf63a9"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_05_01.png",
+          "bytes": 42008,
+          "sha256": "d630cbde8ef04a96f3859b793b1cfd25e13c2bc943a2527fb991623c77157dba"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_05_02.png",
+          "bytes": 306688,
+          "sha256": "04abd92a8c97fe98c78145754b7f26ce6fcb25c5b5fbada3a227beb5a8735cff"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_05_03.png",
+          "bytes": 100479,
+          "sha256": "472c3edb710806e74fc6d6df0448514a1ad43fff64bf267242a5fce054347fb1"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_05_04.png",
+          "bytes": 436002,
+          "sha256": "bed3850de36b42b60a2d64f143cb751ec2e0a70bdfc2fd74352ee5b1bd354c53"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_05_05.png",
+          "bytes": 98399,
+          "sha256": "37c4ded5a5ffcf0bc8431401654595c5414095d13c82c47cea90ca74455f8666"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_05_06.png",
+          "bytes": 7371,
+          "sha256": "239e9911fff99d8c9c67bda95890ef33d916de8f64724c6c62e82ebac92f468b"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_06_00.png",
+          "bytes": 4548,
+          "sha256": "9b220c3ff4ddac73bc9600ad342820bc15c4568579590b88f07b94c8cfbf63a9"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_06_01.png",
+          "bytes": 4548,
+          "sha256": "9b220c3ff4ddac73bc9600ad342820bc15c4568579590b88f07b94c8cfbf63a9"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_06_02.png",
+          "bytes": 4829,
+          "sha256": "3709f0f41b8c3186d6004af921805f92c7b619f577f4dad1643fc70087dbc885"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_06_03.png",
+          "bytes": 197809,
+          "sha256": "848f5b61111403601bb36c2fece4c6b356a3a84a2e78071c23b0853afbcf87dc"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_06_04.png",
+          "bytes": 919099,
+          "sha256": "a48fdec72529208f73bfafdfee5dfe7a049f21daac27cd67f39fc4a1e79e38cb"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_06_05.png",
+          "bytes": 119368,
+          "sha256": "33e764680637a0a5d6e3460ace9e7f6ab7fde91078602fc20ca980507aec678b"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_06_06.png",
+          "bytes": 3817,
+          "sha256": "a036ef973047099d111fe36f73951ecf3e3f0cc161857731ed9e42fe993bf750"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_07_00.png",
+          "bytes": 3106,
+          "sha256": "9ddd07e5d53c75330c69cfde591b185b8eea6dea44e050a8204919a614e80b0e"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_07_01.png",
+          "bytes": 3106,
+          "sha256": "9ddd07e5d53c75330c69cfde591b185b8eea6dea44e050a8204919a614e80b0e"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_07_02.png",
+          "bytes": 3106,
+          "sha256": "9ddd07e5d53c75330c69cfde591b185b8eea6dea44e050a8204919a614e80b0e"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_07_03.png",
+          "bytes": 3106,
+          "sha256": "9ddd07e5d53c75330c69cfde591b185b8eea6dea44e050a8204919a614e80b0e"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_07_04.png",
+          "bytes": 3106,
+          "sha256": "9ddd07e5d53c75330c69cfde591b185b8eea6dea44e050a8204919a614e80b0e"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_07_05.png",
+          "bytes": 3106,
+          "sha256": "9ddd07e5d53c75330c69cfde591b185b8eea6dea44e050a8204919a614e80b0e"
+        },
+        {
+          "path": "normal/mapa/tiles/nivel2_detalhe/tile_07_06.png",
+          "bytes": 2612,
+          "sha256": "6b46ec3b4e9b5eb6a626df085563555cde814cd98a2e86cf45840e974ac744dc"
+        },
+        {
+          "path": "normal/mapa/icones/jog_barra.png",
+          "bytes": 1280,
+          "sha256": "afbbc70c3e943a92bb93b1451c87a9905b23a8343a1d6b01db508d60bcf8a8b0"
+        },
+        {
+          "path": "normal/mapa/icones/jog_barra_bg.png",
+          "bytes": 1254,
+          "sha256": "3b7bbe8644a2935ad006fee79e53a73f15eecb0a077c9347e6131c658d5dbaea"
+        },
+        {
+          "path": "normal/mapa/icones/jog_fundo.png",
+          "bytes": 14486,
+          "sha256": "7cc3fe151a7def7c8407b2888cc981439773de3ce23d048ff5141f08c311206a"
+        },
+        {
+          "path": "normal/mapa/icones/jog_glow.png",
+          "bytes": 4620,
+          "sha256": "1a437647b17565765f283bfbfb430b6d1d6a538e3afcaf907a6b32852d394e89"
+        },
+        {
+          "path": "normal/mapa/icones/jog_pulso.png",
+          "bytes": 5222,
+          "sha256": "01ca435cab3ef90169dec64c4fbbeb715c212527b89c49109bf33a9b810265db"
+        },
+        {
+          "path": "normal/mapa/icones/jog_seta.png",
+          "bytes": 1601,
+          "sha256": "7db58700a0e993c103621a11450c764bf2b6b6f39d9d909f7d72854e9c5b0630"
+        },
+        {
+          "path": "normal/mapa/icones/jog_silhueta.png",
+          "bytes": 3420,
+          "sha256": "229d0a1ee17d19e4c3fa9529b9d3eec2a0a1ba1606dfa45354ce4efd67c33493"
+        }
+      ],
+      "file_count": 64,
+      "total_bytes": 6970363
+    }
+  }
+}
